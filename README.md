@@ -89,3 +89,10 @@ The Robot Selection Menu makes it incredibly easy to switch between different ro
 
 
 <img width="1169" height="533" alt="image" src="https://github.com/user-attachments/assets/b35a9fec-144f-4f86-8397-9d712c8019db" />
+
+
+## 🎮 Managing Your Robot Fleet
+
+Axiom OS provides an intuitive interface for managing all your robots—whether they're physical hardware or simulated in Gazebo.
+
+<img width="1252" height="653" alt="image" src="https://github.com/user-attachments/assets/d9e48961-5a55-4b97-8e18-f2c6792c5f18" />
