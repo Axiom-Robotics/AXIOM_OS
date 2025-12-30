@@ -86,3 +86,6 @@ Axiom OS includes an integrated **robot app store** that lets you discover, inst
 **Select your favorite robot and test them in simulated environments without hassle using Axiom's App Store.**
 
 The Robot Selection Menu makes it incredibly easy to switch between different robots, configure them automatically, and start experimenting—all without touching config files or environment variables.
+
+
+<img width="1169" height="533" alt="image" src="https://github.com/user-attachments/assets/b35a9fec-144f-4f86-8397-9d712c8019db" />
