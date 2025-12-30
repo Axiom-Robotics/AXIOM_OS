@@ -58,13 +58,13 @@ After booting into Axiom OS for the first time:
 
 ### 1. Update System Packages
 
-sudo apt update && sudo apt upgrade -y
+     sudo apt update && sudo apt upgrade -y
 
 ### 2. Verify ROS2 Installation
 
-Source ROS2 environment
-source /opt/ros/humble/setup.bash
-Check ROS2 version
-ros2 --version
-Test with a demo
-ros2 run demo_nodes_cpp talker
+     Source ROS2 environment
+     source /opt/ros/humble/setup.bash
+     Check ROS2 version
+     ros2 --version
+     Test with a demo
+     ros2 run demo_nodes_cpp talker
