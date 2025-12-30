@@ -128,3 +128,38 @@ The setup wizard collects essential information:
 5. **Description** - Optional notes about the robot's purpose (e.g., "Sorter robot")
 
 Click **"Add Robot"** to register it to your fleet.
+
+
+## 🚀 Launching Robots in Gazebo And Robot Specifications
+
+
+<img width="1209" height="588" alt="image" src="https://github.com/user-attachments/assets/f02e1512-c221-4bbd-9478-769baba3655a" />
+
+
+
+After adding a robot, click **"View Details"** to access the robot control panel [file:26]:
+
+### Robot Details View
+
+The details page displays:
+
+**Robot Information:**
+- Robot name and type (e.g., "Sam" - Manipulator)
+- Model (UR5) and IP address (192.168.1.128)
+- Current status (Inactive/Active)
+
+**Launch Controls:**
+- **🚀 Launch in Gazebo** - Start robot in simulation environment
+- **🗑️ Delete Robot** - Remove from fleet
+
+**Robot Specifications:**
+- Dimensions (e.g., 149×149×188mm)
+- Weight and technical specs
+- Hardware capabilities
+
+**Performance Metrics:**
+- Uptime percentage (98.2%)
+- CPU temperature (47°C)
+- Real-time health monitoring
+
+Click **"Launch in Gazebo"** to spawn your robot in the simulation environment and start working with it immediately without confusing and tendious gazebo simulation setup !!!
