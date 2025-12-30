@@ -2,6 +2,9 @@
 
 **A unified operating system for AI-powered robots.** Axiom OS enables seamless integration of any AI model with any robot hardware, providing a standardized platform for developing and deploying intelligent robotic applications.
 
+<img width="1279" height="795" alt="image" src="https://github.com/user-attachments/assets/16ad3f60-aea6-4f02-8d8a-3ad907435a82" />
+
+   
 ## 🌟 Features
 
 - **Pre-configured ROS2 Humble Environment** - Full robotics middleware stack ready to use
