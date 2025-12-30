@@ -137,7 +137,7 @@ Click **"Add Robot"** to register it to your fleet.
 
 
 
-After adding a robot, click **"View Details"** to access the robot control panel [file:26]:
+After adding a robot, click **"View Details"** to access the robot control panel:
 
 ### Robot Details View
 
