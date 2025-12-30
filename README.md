@@ -1,18 +1,18 @@
-# 🤖 Axiom OS
+# Axiom OS
 
-Open-source robot operating system with app store for ROS2 robots.
+A unified operating system for AI-powered robots that enables any AI model to integrate with any robot hardware.
 
-## Quick Start
+## Prerequisites
 
-Download the [latest release](../../releases) and import into VirtualBox.
+- VirtualBox 6.0 or later
+- Minimum 4GB RAM allocated to VM
+- 20GB available disk space
 
-**Credentials:** `axiom` / `axiom2025`
+## Installation
 
-## Features
+### Method 1: Import OVA File
 
-- 🤖 Universal robot support
-- 📱 App store ecosystem  
-- 🧠 AI integration
-- 🔧 ROS2 native
+1. Download the latest Axiom OS OVA file from [Releases](https://github.com/axiom-robotics/axiom-os/releases)
 
-[Documentation](docs/) • [Install Guide](docs/installation.md)
+2. Open VirtualBox and import the appliance:
+

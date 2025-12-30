@@ -1,5 +1,6 @@
 *.ova
 *.vdi
-__pycache__/
+*.vmdk
+*.vbox
 *.log
-users.json
+.DS_Store
