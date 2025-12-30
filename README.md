@@ -68,5 +68,5 @@ After booting into Axiom OS for the first time:
 ### 2.3 Test with a demo
      ros2 run demo_nodes_cpp talker
 ### 3. Verify Gazebo Simulation
-### Launch Gazebo
+### 3.1 Launch Gazebo
      gazebo
