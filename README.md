@@ -39,3 +39,19 @@ Before installing Axiom OS, ensure you have:
 
    **Using Command Line:**
 
+3. **Configure VM Settings** (Recommended)
+   - Right-click the VM → `Settings`
+   - **System**: Base Memory 4096 MB (or more), Processors 2+ CPUs
+   - **Display**: Video Memory 128 MB, Enable 3D Acceleration
+   - **Network**: Adapter 1 set to Bridged Adapter
+
+4. **Start Axiom OS**
+   - Select the VM and click `Start`
+   - **Login credentials:**
+     - Username: `axiom`
+     - Password: `axiom`
+   - **Important:** Change password after first login with `passwd` command
+
+
+
+
