@@ -97,3 +97,10 @@ Axiom OS provides an intuitive interface for managing all your robots—whether 
 
 <img width="1257" height="612" alt="image" src="https://github.com/user-attachments/assets/664cd5ca-cc01-4e8b-a7ab-cad320f39818" />
 
+The dashboard shows all registered robots with key information at a glance:
+- **Robot name** and avatar icon (e.g., "wrwerwer" - UR5 manipulator)
+- **Model type** (UR5, TurtleBot3, custom robots)
+- **IP Address** for network connection (192.168.1.100)
+- **Location** tag (Office, Warehouse, Lab, etc.)
+- **Status indicator** (Inactive/Active/Connected)
+- **Description** of the robot's purpose ("New robot for patrolling")
