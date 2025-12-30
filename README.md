@@ -73,3 +73,4 @@ After booting into Axiom OS for the first time:
 ## 🛒 Axiom OS Robot App Store
 
 Axiom OS includes an integrated **robot app store** that lets you discover, install, update, and manage skills and behaviors for your robots without manually handling packages or dependencies. Apps are packaged as modular capabilities (navigation, perception, manipulation, multi‑robot coordination, etc.) that plug into the Axiom OS runtime and ROS2 ecosystem.
+<img width="1279" height="649" alt="image" src="https://github.com/user-attachments/assets/3b9d53a2-7b1b-4b0b-9d24-4f9d771a6e8c" />
