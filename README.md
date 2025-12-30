@@ -104,3 +104,27 @@ The dashboard shows all registered robots with key information at a glance:
 - **Location** tag (Office, Warehouse, Lab, etc.)
 - **Status indicator** (Inactive/Active/Connected)
 - **Description** of the robot's purpose ("New robot for patrolling")
+
+
+## ⚙️ Configuring a New Robot
+
+
+
+<img width="1254" height="574" alt="image" src="https://github.com/user-attachments/assets/1c82278e-4a1c-49c5-8f4f-ee2edf9b345e" />
+
+
+
+
+Click **"+ Add Robot"** to register a new robot through the configuration interface [file:25]:
+
+### Configuration Form
+
+The setup wizard collects essential information:
+
+1. **Robot Name** - Enter a friendly name (e.g., "Sam")
+2. **Robot Model** - Select from dropdown (UR5, TurtleBot3, etc.)
+3. **IP Address** - Network address for connection (e.g., 192.168.1.128)
+4. **Location** - Where the robot is deployed (e.g., "Office")
+5. **Description** - Optional notes about the robot's purpose (e.g., "Sorter robot")
+
+Click **"Add Robot"** to register it to your fleet.
