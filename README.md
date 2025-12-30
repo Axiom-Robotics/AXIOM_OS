@@ -65,5 +65,5 @@ After booting into Axiom OS for the first time:
       source /opt/ros/humble/setup.bash
 ### Check ROS2 version
      ros2 --version
-     Test with a demo
+### Test with a demo
      ros2 run demo_nodes_cpp talker
