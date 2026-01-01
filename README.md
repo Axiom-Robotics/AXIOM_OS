@@ -148,10 +148,6 @@ The details page displays:
 - Model (UR5) and IP address (192.168.1.128)
 - Current status (Inactive/Active)
 
-**Launch Controls:**
-- **🚀 Launch in Gazebo** - Start robot in simulation environment
-- **🗑️ Delete Robot** - Remove from fleet
-
 **Robot Specifications:**
 - Dimensions (e.g., 149×149×188mm)
 - Weight and technical specs
@@ -161,5 +157,14 @@ The details page displays:
 - Uptime percentage (98.2%)
 - CPU temperature (47°C)
 - Real-time health monitoring
+  
+<img width="986" height="519" alt="image" src="https://github.com/user-attachments/assets/82bf7508-7213-46d9-b6e3-0c5cafcdd292" />
+
+**Launch Controls:**
+- **🚀 Launch in Gazebo** - Start robot in simulation environment
+- **🗑️ Delete Robot** - Remove from fleet
+
+
+
 
 Click **"Launch in Gazebo"** to spawn your robot in the simulation environment and start working with it immediately without confusing and tendious gazebo simulation setup !!!
