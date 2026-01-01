@@ -157,10 +157,11 @@ The details page displays:
 - Uptime percentage (98.2%)
 - CPU temperature (47°C)
 - Real-time health monitoring
-  
-<img width="986" height="519" alt="image" src="https://github.com/user-attachments/assets/82bf7508-7213-46d9-b6e3-0c5cafcdd292" />
 
 **Launch Controls:**
+
+<img width="986" height="519" alt="image" src="https://github.com/user-attachments/assets/82bf7508-7213-46d9-b6e3-0c5cafcdd292" />
+
 - **🚀 Launch in Gazebo** - Start robot in simulation environment
 - **🗑️ Delete Robot** - Remove from fleet
 
