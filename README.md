@@ -165,6 +165,7 @@ The details page displays:
 - **🚀 Launch in Gazebo** - Start robot in simulation environment
 - **🗑️ Delete Robot** - Remove from fleet
 
+<img width="974" height="580" alt="image" src="https://github.com/user-attachments/assets/0c77f0da-c68c-4c50-a9a7-4e0b6a038a77" />
 
 
 
