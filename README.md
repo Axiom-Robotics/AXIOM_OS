@@ -182,6 +182,13 @@ ROSGPT is a natural language interface that connects LLMs to real robots and sim
 
 ##  5.1. How It Works
 
+
+
+https://github.com/user-attachments/assets/8a60a8b4-ad30-4a2d-921b-ffae8d71e01c
+
+
+
+
 i)   The user selects a robot type and sends a natural language instruction through a chat UI 
      or API.
 
