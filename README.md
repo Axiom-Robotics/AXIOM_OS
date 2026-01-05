@@ -191,4 +191,12 @@ iv)  ROSGPT parses that response with a robot-specific “parser” module (e.g.
 v)   The robot executes the resulting commands, and ROSGPT can stream back status or 
        feedback as natural language.
 
+## 5.2 No Custom Coding for End Users
+A core design goal of ROSGPT is that end users do not need to write ROS nodes or custom scripts to move robots. Instead, they:​
+
+Select a robot type (e.g., TurtleBot3, UR5 manipulator) in the interface.
+
+Start chatting with that robot in plain language.
+
+ROSGPT automatically uses the right parser and control logic for that robot
 
