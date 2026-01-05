@@ -187,5 +187,5 @@ iv)  ROSGPT parses that response with a robot-specific “parser” module (e.g.
      parser, manipulator parser) and turns it into ROS2 messages, service calls, or launch 
      commands.​
 
-v)   The robot executes the resulting commands, and ROSGPT can stream back status or feedback  
-     as natural language.
+v)   The robot executes the resulting commands, and ROSGPT can stream back status or 
+     feedback as natural language.
