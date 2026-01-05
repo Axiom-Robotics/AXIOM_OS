@@ -177,7 +177,8 @@ ROSGPT is a natural language interface that connects LLMs to real robots and sim
 
 ##  5.1. How It Works
 
-i)   The user sends a natural language instruction through a chat UI or API.
+i)   The user selects a robot type and sends a natural language instruction through a chat UI 
+     or API.
 
 ii)  ROSGPT passes that instruction, plus robot context and capabilities, to an LLM.
 
@@ -189,3 +190,5 @@ iv)  ROSGPT parses that response with a robot-specific “parser” module (e.g.
 
 v)   The robot executes the resulting commands, and ROSGPT can stream back status or 
        feedback as natural language.
+
+
