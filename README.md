@@ -177,12 +177,15 @@ ROSGPT is a natural language interface that connects LLMs to real robots and sim
 
 ##  5.1. How It Works
 
-The user sends a natural language instruction through a chat UI or API.
+i)   The user sends a natural language instruction through a chat UI or API.
 
-ROSGPT passes that instruction, plus robot context and capabilities, to an LLM.
+ii)  ROSGPT passes that instruction, plus robot context and capabilities, to an LLM.
 
-The LLM responds in a constrained, machine-readable format (an action plan, JSON, or code-like structure), instead of freeform prose.​
+iii) The LLM responds in a constrained, machine-readable format (an action plan, JSON, or code-      like structure), instead of freeform prose.​
 
-ROSGPT parses that response with a robot-specific “parser” module (e.g., TurtleBot3 parser, manipulator parser) and turns it into ROS2 messages, service calls, or launch commands.​
+iv)  ROSGPT parses that response with a robot-specific “parser” module (e.g., TurtleBot3   
+     parser, manipulator parser) and turns it into ROS2 messages, service calls, or launch 
+     commands.​
 
-The robot executes the resulting commands, and ROSGPT can stream back status or feedback as natural language.
+v)   The robot executes the resulting commands, and ROSGPT can stream back status or feedback  
+     as natural language.
