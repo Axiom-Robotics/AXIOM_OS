@@ -175,6 +175,11 @@ Click **"Launch in Gazebo"** to spawn your robot in the simulation environment a
 
 ROSGPT is a natural language interface that connects LLMs to real robots and simulations letting users to control robots just by talking to them, without writing any custom ROS code or low-level controllers.It sits between large language models and ROS2, translating human intent into safe, structured robot commands.
 
+
+<img width="1280" height="581" alt="image" src="https://github.com/user-attachments/assets/4dc7d02b-bbba-41d7-bae7-783532595f57" />
+
+
+
 ##  5.1. How It Works
 
 i)   The user selects a robot type and sends a natural language instruction through a chat UI 
