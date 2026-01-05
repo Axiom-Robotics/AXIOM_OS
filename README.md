@@ -170,3 +170,7 @@ The details page displays:
 
 
 Click **"Launch in Gazebo"** to spawn your robot in the simulation environment and start working with it immediately without confusing and tendious gazebo simulation setup !!!
+
+##  5. 🤖💬 ROSGPT
+
+ROSGPT is a natural language interface that connects LLMs to real robots and simulations letting users to control robots just by talking to them, without writing any custom ROS code or low-level controllers.It sits between large language models and ROS2, translating human intent into safe, structured robot commands.
