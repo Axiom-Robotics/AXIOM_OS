@@ -188,4 +188,4 @@ iv)  ROSGPT parses that response with a robot-specific “parser” module (e.g.
      commands.​
 
 v)   The robot executes the resulting commands, and ROSGPT can stream back status or 
-     feedback as natural language.
+       feedback as natural language.
